@@ -68,7 +68,7 @@ const Footer = () => {
         {/* Bottom */}
         <div className="border-t border-verde-sage/30 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-verde-sand text-sm">
-            © 2025 Verde Tempora. All rights reserved.
+            © 2025 Sion Yehezkiel Nababan. All rights reserved.
           </p>
           <div className="flex gap-6 text-sm">
             <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" className="text-verde-sand hover:text-verde-cream transition-colors">
